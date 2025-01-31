@@ -10,7 +10,7 @@ namespace Maa__er_doya_Bakery
     {
         /// <summary>
         /// The main entry point for the application.
-        /// </summary>
+        /// </summary/// nunukata daroga
         [STAThread]
         static void Main()
         {
